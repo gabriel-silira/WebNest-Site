@@ -6,9 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "qa": "node scripts/qa.mjs",
-    "qa:services": "node scripts/check-services.mjs"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@fontsource-variable/manrope": "^5.2.8",

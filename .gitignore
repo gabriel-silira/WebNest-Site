@@ -6,3 +6,11 @@ dist/
 !.env.example
 playwright-report/
 test-results/
+
+# Materiais internos e fontes locais que não devem ir ao repositório público.
+planejamento/
+DESIGN.md
+PRODUCT.md
+scripts/
+src/assets/*.png
+src/assets/*.avif
