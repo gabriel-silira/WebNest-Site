@@ -2,8 +2,7 @@ node_modules/
 dist/
 .vercel/
 .impeccable/
-.env
-.env.*
+.env*
 !.env.example
 playwright-report/
 test-results/
